@@ -1,0 +1,99 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	color: rgb(65, 64, 64);
+	font-family: Helevetica,Arial,sans-serif;
+	font-size: 16px;
+	line-height:1.5em; 
+    background-image: url('../images/templatemo_body.jpg')  ;
+	background-repeat: repeat;
+}
+
+nav{
+    background-color: #68614D;
+}
+
+nav .dropdown-menu .dropdown-item{
+    color: #68614D;
+    text-align: center;
+}
+
+nav .dropdown-menu .dropdown-item:hover{
+    background-color:#68614D ;
+    color: white;
+}
+
+nav .nav-item .nav-link:hover{
+    color: #68614D !important;
+	background-color: white;
+    border-radius:10px ;
+}
+
+.navbar .container  .heading{
+    width: 200px;
+	height: 276px;
+	padding: 0 10px;
+	background: url("../images/templatemo_header.png") left center no-repeat;
+    position:absolute;
+}
+
+.navbar .container .heading .site_title{
+float: left;
+width: 310px;
+padding: 60px 0 0 60px;
+}
+
+.navbar .container  .heading .site_title h1{
+    margin: 0;
+	padding: 0;
+}
+
+.navbar .container  .heading .site_title h1 a{
+    margin: 0px;
+	padding: 0px;
+	font-size: 38px;
+	color: #fff;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.navbar .container  .heading .site_title h1 strong{
+    color: #f00;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.container .row .col-4 .py-5{
+    background-color: #F5F5F5;
+    border-radius: 5px;
+}
+
+.container .row .col-4 .py-5 h3{
+    background-color: #68614D;
+    color: white !important;
+    border-radius: 10px;
+}
+
+.container .row .col-8 .post{
+    border-bottom: 1px solid rgba(167, 165, 165, 0.568);
+    border-radius: 5px;
+}
+
+.container .row .col-8 .post .info span {
+    color: rgb(148, 146, 146) !important;
+}
+
+button{
+    background-color: #68614D !important;
+    color: white !important;
+}
+
+button:hover{
+    background-color: #4b4537 !important;
+    color: white !important;
+}
+
+i{
+    color:#68614D ;
+    font-size: larger;
+}
+
